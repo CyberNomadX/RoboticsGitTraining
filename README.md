@@ -1,7 +1,6 @@
 # RoboticsGitTraining
-Training GIT for the robotics team
 
-# Robotics Team Learning
+Training GIT for the robotics team
 
 Welcome to the Robotics Team Learning session! This presentation is a quick guide to using our GitHub repository for collaborative learning.
 
@@ -13,9 +12,10 @@ This repository is a training ground for our robotics team. It contains placehol
 
 1. **Clone Repository:**
    - Open a web browser.
-   - Go to https://github.com/CyberNomadX/RoboticsGitTraining.
+   - Go to <https://github.com/CyberNomadX/RoboticsGitTraining>.
    - Click on the "Code" button and copy the repository URL.
    - Open a terminal and type:
+
      ```bash
      git clone https://github.com/CyberNomadX/RoboticsGitTraining
      ```
@@ -30,6 +30,7 @@ This repository is a training ground for our robotics team. It contains placehol
 
 1. **Create a Branch:**
    - Before making changes, create a new branch:
+
      ```bash
      git checkout -b [your-branch-name]
      ```
@@ -40,6 +41,7 @@ This repository is a training ground for our robotics team. It contains placehol
 
 3. **Submit Changes:**
    - Commit your changes and push to GitHub:
+
      ```bash
      git add .
      git commit -m "Your informative commit message"
@@ -67,7 +69,7 @@ This repository is a training ground for our robotics team. It contains placehol
 
 If you have questions or need assistance:
 
-- Reach out to Kyle Duffy via kduffy@seasidek12.org
+- Reach out to Kyle Duffy via <kduffy@seasidek12.org>
 - Post in the [Discussions](https://github.com/CyberNomadX/RoboticsGitTraining/discussions) section.
 
 ## License
