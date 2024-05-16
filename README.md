@@ -72,4 +72,4 @@ If you have questions or need assistance:
 
 ## License
 
-This repository is licensed under the [Apache License](LICENSE)(https://github.com/CyberNomadX/RoboticsGitTraining/blob/kylecontrib/LICENSE).
+This repository is licensed under the [Apache License](https://github.com/CyberNomadX/RoboticsGitTraining/blob/kylecontrib/LICENSE).
